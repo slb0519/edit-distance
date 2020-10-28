@@ -1,0 +1,5 @@
+﻿  ED.cpp
+C:\Users\slb05\Documents\GitHub\edit-distance-old\ED.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\slb05\Documents\GitHub\edit-distance-old\ED.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\slb05\Documents\GitHub\edit-distance-old\ED.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+  edit-distance.vcxproj -> C:\Users\slb05\Documents\GitHub\edit-distance\Debug\edit-distance.exe
